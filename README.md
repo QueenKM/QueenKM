@@ -24,20 +24,20 @@ I enjoy working on:
 
 ## Featured Projects
 
+### [CryptoPass-MacOS](https://github.com/QueenKM/CryptoPass-MacOS)
+A SwiftUI password manager project for macOS with Core Data persistence, encryption-focused services, Firebase integration hooks, UI tests, and a polished public project presentation.
+
 ### [Snake Game](https://github.com/QueenKM/snake-game)
 A lightweight browser-based implementation of the classic Snake game built with vanilla JavaScript, focused on deterministic game logic, responsive controls, and clean UI.
-
-### [macOS-PasswordManager](https://github.com/QueenKM/macOS-PasswordManager)
-A security-focused project exploring password management workflows and application structure.
-
-### [CryptoPassApp](https://github.com/QueenKM/CryptoPassApp)
-An application-focused project centered on usability, product structure, and secure workflow design.
 
 ### [RAG Postgres OpenAI Python](https://github.com/QueenKM/rag-postgres-openai-python)
 A project exploring retrieval-augmented generation, data workflows, and practical AI integration.
 
 ### [Azure Search OpenAI Demo](https://github.com/QueenKM/azuresearchopenaidemo)
 A larger engineering-focused project demonstrating search, AI integration, and applied system design.
+
+### [CryptoPassApp](https://github.com/QueenKM/CryptoPassApp)
+An application-focused password manager repository snapshot centered on structure, usability, and secure workflow design.
 
 ## What I Value
 
