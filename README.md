@@ -1,52 +1,44 @@
-# Hi, I'm Kristina Mateva
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Kristina Mateva profile banner" width="100%">
+</p>
 
-I build practical software with a focus on clean structure, thoughtful user experience, and real-world usefulness.
+<p align="center">
+  <a href="https://github.com/QueenKM/ai102-knowledge-assistant"><img src="https://img.shields.io/badge/AI%20Knowledge%20Systems-0b7d74?style=for-the-badge&logo=openai&logoColor=white" alt="AI Knowledge Systems"></a>
+  <a href="https://github.com/QueenKM/microsoft-cloud-security-portfolio"><img src="https://img.shields.io/badge/Cloud%20Security-156cbe?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud Security"></a>
+  <a href="https://github.com/QueenKM/CryptoPass-MacOS"><img src="https://img.shields.io/badge/SwiftUI%20Apps-f28c38?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI Apps"></a>
+</p>
 
-## About Me
+## Kristina Mateva
 
-I'm growing a portfolio centered on polished applications, interactive web projects, and software that is both functional and well-organized.
+I build polished software with a practical mindset: AI knowledge tools, Microsoft cloud security portfolio projects, and SwiftUI applications for Apple platforms.
 
-I enjoy working on:
-- web applications
-- desktop-oriented tools
-- product-focused UI
-- backend and AI-powered systems
+My work aims to feel complete, readable, and demo-ready. I care about clean architecture, thoughtful UX, and projects that communicate value quickly to both technical and non-technical audiences.
 
-## Tech Stack
+## Focus Areas
 
-- JavaScript
-- Python
-- HTML
-- CSS
-- Git and GitHub
-- API integrations
-- AI application workflows
+- AI applications with retrieval, grounding, document workflows, and clear demo stories
+- Cloud security portfolio work across Azure, Microsoft security, governance, and IaC
+- SwiftUI projects with secure data flows, strong structure, and testing in place
+- Frontend presentation that feels intentional instead of purely functional
 
-## Featured Projects
+## Featured Work
 
-### [CryptoPass-MacOS](https://github.com/QueenKM/CryptoPass-MacOS)
-A SwiftUI password manager project for macOS with Core Data persistence, encryption-focused services, Firebase integration hooks, UI tests, and a polished public project presentation.
+| Project | What It Shows |
+| --- | --- |
+| [AI-102 Knowledge Assistant](https://github.com/QueenKM/ai102-knowledge-assistant) | A colorful portfolio app for document ingestion, grounded answers, local-first runtime, and Azure-ready AI architecture. |
+| [Microsoft Cloud Security Portfolio](https://github.com/QueenKM/microsoft-cloud-security-portfolio) | A structured body of work covering Azure security, governance, architecture, analytics, and infrastructure automation. |
+| [CryptoPass for macOS](https://github.com/QueenKM/CryptoPass-MacOS) | A SwiftUI password manager with Core Data persistence, encryption-focused services, Firebase hooks, and test coverage. |
+| [CryptoPassApp](https://github.com/QueenKM/CryptoPassApp) | An Apple-platform password manager project centered on app structure, secure workflows, and portfolio-quality presentation. |
+| [Snake Game](https://github.com/QueenKM/snake-game) | A lightweight browser game that highlights clean JavaScript structure, responsive controls, and visual polish. |
 
-### [Snake Game](https://github.com/QueenKM/snake-game)
-A lightweight browser-based implementation of the classic Snake game built with vanilla JavaScript, focused on deterministic game logic, responsive controls, and clean UI.
+## How I Like To Build
 
-### [RAG Postgres OpenAI Python](https://github.com/QueenKM/rag-postgres-openai-python)
-A project exploring retrieval-augmented generation, data workflows, and practical AI integration.
+- Clear repository structure and readable documentation
+- Projects that are easy to demo and easy to explain
+- Useful architecture choices instead of unnecessary complexity
+- Interfaces that feel polished, not accidental
 
-### [Azure Search OpenAI Demo](https://github.com/QueenKM/azuresearchopenaidemo)
-A larger engineering-focused project demonstrating search, AI integration, and applied system design.
-
-### [CryptoPassApp](https://github.com/QueenKM/CryptoPassApp)
-An application-focused password manager repository snapshot centered on structure, usability, and secure workflow design.
-
-## What I Value
-
-- clean code
-- maintainable architecture
-- thoughtful interfaces
-- projects that feel complete
-
-## Contact
+## Connect
 
 - GitHub: [@QueenKM](https://github.com/QueenKM)
 - LinkedIn: [Kristina Mateva](https://www.linkedin.com/in/kristina-mateva/)

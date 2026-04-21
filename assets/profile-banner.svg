@@ -1,0 +1,86 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="92" y1="48" x2="1188" y2="612" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#E6FFF6"/>
+      <stop offset="0.38" stop-color="#E8F4FF"/>
+      <stop offset="0.72" stop-color="#FFF0E3"/>
+      <stop offset="1" stop-color="#FFF8DA"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="320" y1="120" x2="975" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.88"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.72"/>
+    </linearGradient>
+    <linearGradient id="accentA" x1="130" y1="110" x2="340" y2="305" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B7D74"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+    <linearGradient id="accentB" x1="930" y1="350" x2="1160" y2="560" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#156CBE"/>
+      <stop offset="1" stop-color="#4CA7FF"/>
+    </linearGradient>
+    <linearGradient id="accentC" x1="1015" y1="68" x2="1205" y2="245" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F28C38"/>
+      <stop offset="1" stop-color="#FFB347"/>
+    </linearGradient>
+    <filter id="shadow" x="220" y="78" width="840" height="484" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="16"/>
+      <feGaussianBlur stdDeviation="26"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.0745098 0 0 0 0 0.14902 0 0 0 0 0.27451 0 0 0 0.12 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_2"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_2" result="shape"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="640" rx="36" fill="url(#bg)"/>
+
+  <circle cx="184" cy="126" r="108" fill="url(#accentA)" fill-opacity="0.18"/>
+  <circle cx="1122" cy="134" r="94" fill="url(#accentC)" fill-opacity="0.22"/>
+  <circle cx="1036" cy="488" r="132" fill="url(#accentB)" fill-opacity="0.17"/>
+  <circle cx="194" cy="520" r="72" fill="#14B8A6" fill-opacity="0.12"/>
+
+  <path d="M0 470C114 412 222 404 325 430C432 457 527 519 637 525C770 532 867 455 1000 443C1096 434 1180 458 1280 520V640H0V470Z" fill="#FFFFFF" fill-opacity="0.26"/>
+
+  <g opacity="0.45">
+    <path d="M942 126H1134" stroke="#156CBE" stroke-width="2" stroke-linecap="round"/>
+    <path d="M942 156H1090" stroke="#156CBE" stroke-width="2" stroke-linecap="round"/>
+    <path d="M942 186H1064" stroke="#156CBE" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <g opacity="0.38">
+    <rect x="108" y="232" width="148" height="92" rx="18" stroke="#0B7D74" stroke-width="2"/>
+    <path d="M138 278H226" stroke="#0B7D74" stroke-width="2" stroke-linecap="round"/>
+    <path d="M138 302H202" stroke="#0B7D74" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="272" y="104" width="736" height="412" rx="34" fill="url(#panel)"/>
+    <rect x="272" y="104" width="736" height="412" rx="34" stroke="#FFFFFF" stroke-opacity="0.8" stroke-width="2"/>
+  </g>
+
+  <rect x="330" y="164" width="126" height="40" rx="20" fill="#0B7D74"/>
+  <text x="393" y="189" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle">PROFILE</text>
+
+  <text x="330" y="262" fill="#112641" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">
+    Kristina Mateva
+  </text>
+  <text x="330" y="312" fill="#2B4A61" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600">
+    Building polished software across AI, cloud security, and SwiftUI
+  </text>
+
+  <text x="330" y="376" fill="#385A72" font-family="Arial, Helvetica, sans-serif" font-size="24">
+    Clean architecture. Thoughtful UX. Portfolio work with real demo value.
+  </text>
+
+  <g>
+    <rect x="330" y="420" width="156" height="46" rx="23" fill="#E6FFFA"/>
+    <text x="408" y="449" fill="#0B7D74" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle">AI Systems</text>
+
+    <rect x="500" y="420" width="194" height="46" rx="23" fill="#EAF4FF"/>
+    <text x="597" y="449" fill="#156CBE" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Cloud Security</text>
+
+    <rect x="708" y="420" width="162" height="46" rx="23" fill="#FFF2E4"/>
+    <text x="789" y="449" fill="#D96A12" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle">SwiftUI Apps</text>
+  </g>
+</svg>
