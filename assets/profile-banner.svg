@@ -31,15 +31,6 @@
       <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_2"/>
       <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_2" result="shape"/>
     </filter>
-    <filter id="softShadow" x="248" y="520" width="784" height="96" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
-      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
-      <feOffset dy="10"/>
-      <feGaussianBlur stdDeviation="14"/>
-      <feColorMatrix type="matrix" values="0 0 0 0 0.0745098 0 0 0 0 0.14902 0 0 0 0 0.27451 0 0 0 0.08 0"/>
-      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_3"/>
-      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_3" result="shape"/>
-    </filter>
   </defs>
 
   <rect width="1280" height="640" rx="36" fill="url(#bg)"/>
@@ -74,27 +65,19 @@
   <text x="330" y="262" fill="#112641" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">
     Kristina Mateva
   </text>
-  <text x="330" y="312" fill="#2B4A61" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600">
-    Building polished software across AI, cloud security, and SwiftUI
+  <text x="330" y="332" fill="#36556E" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600">
+    <tspan x="330" dy="0">Building SwiftUI apps, AI knowledge systems, and</tspan>
+    <tspan x="330" dy="38">cloud security portfolio projects with clean architecture and thoughtful UX.</tspan>
   </text>
-
-  <text x="330" y="376" fill="#385A72" font-family="Arial, Helvetica, sans-serif" font-size="24">
-    Clean architecture. Thoughtful UX. Portfolio work with real demo value.
-  </text>
-
-  <g filter="url(#softShadow)">
-    <rect x="276" y="544" width="728" height="48" rx="24" fill="#FFFFFF" fill-opacity="0.42"/>
-    <rect x="276" y="544" width="728" height="48" rx="24" stroke="#FFFFFF" stroke-opacity="0.55"/>
-  </g>
 
   <g>
-    <rect x="292" y="552" width="272" height="40" rx="12" fill="#2B7C77"/>
-    <text x="428" y="577" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1.5" text-anchor="middle">AI KNOWLEDGE SYSTEMS</text>
+    <rect x="330" y="420" width="156" height="46" rx="23" fill="#E6FFFA"/>
+    <text x="408" y="449" fill="#0B7D74" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle">AI Systems</text>
 
-    <rect x="572" y="552" width="214" height="40" rx="12" fill="#3C70C5"/>
-    <text x="679" y="577" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1.5" text-anchor="middle">CLOUD SECURITY</text>
+    <rect x="500" y="420" width="194" height="46" rx="23" fill="#EAF4FF"/>
+    <text x="597" y="449" fill="#156CBE" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Cloud Security</text>
 
-    <rect x="794" y="552" width="194" height="40" rx="12" fill="#EB994C"/>
-    <text x="891" y="577" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1.5" text-anchor="middle">SWIFTUI APPS</text>
+    <rect x="708" y="420" width="162" height="46" rx="23" fill="#FFF2E4"/>
+    <text x="789" y="449" fill="#D96A12" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle">SwiftUI Apps</text>
   </g>
 </svg>
