@@ -2,12 +2,6 @@
   <img src="assets/profile-banner.svg" alt="Kristina Mateva profile banner" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://github.com/QueenKM/ai102-knowledge-assistant"><img src="https://img.shields.io/badge/AI%20Knowledge%20Systems-0b7d74?style=for-the-badge&logo=openai&logoColor=white" alt="AI Knowledge Systems"></a>
-  <a href="https://github.com/QueenKM/microsoft-cloud-security-portfolio"><img src="https://img.shields.io/badge/Cloud%20Security-156cbe?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud Security"></a>
-  <a href="https://github.com/QueenKM/CryptoPass-MacOS"><img src="https://img.shields.io/badge/SwiftUI%20Apps-f28c38?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI Apps"></a>
-</p>
-
 ## Kristina Mateva
 
 I build polished software with a practical mindset: AI knowledge tools, Microsoft cloud security portfolio projects, and SwiftUI applications for Apple platforms.
