@@ -7,8 +7,8 @@
       <stop offset="1" stop-color="#FFF8DA"/>
     </linearGradient>
     <linearGradient id="panel" x1="320" y1="120" x2="975" y2="520" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.88"/>
-      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.72"/>
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.76"/>
     </linearGradient>
     <linearGradient id="accentA" x1="130" y1="110" x2="340" y2="305" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0B7D74"/>
@@ -37,18 +37,18 @@
 
   <circle cx="184" cy="126" r="108" fill="url(#accentA)" fill-opacity="0.18"/>
   <circle cx="1122" cy="134" r="94" fill="url(#accentC)" fill-opacity="0.22"/>
-  <circle cx="1036" cy="488" r="132" fill="url(#accentB)" fill-opacity="0.17"/>
-  <circle cx="194" cy="520" r="72" fill="#14B8A6" fill-opacity="0.12"/>
+  <circle cx="1036" cy="488" r="132" fill="url(#accentB)" fill-opacity="0.12"/>
+  <circle cx="194" cy="520" r="72" fill="#14B8A6" fill-opacity="0.10"/>
 
-  <path d="M0 470C114 412 222 404 325 430C432 457 527 519 637 525C770 532 867 455 1000 443C1096 434 1180 458 1280 520V640H0V470Z" fill="#FFFFFF" fill-opacity="0.26"/>
+  <path d="M0 470C114 412 222 404 325 430C432 457 527 519 637 525C770 532 867 455 1000 443C1096 434 1180 458 1280 520V640H0V470Z" fill="#FFFFFF" fill-opacity="0.22"/>
 
-  <g opacity="0.45">
+  <g opacity="0.35">
     <path d="M942 126H1134" stroke="#156CBE" stroke-width="2" stroke-linecap="round"/>
     <path d="M942 156H1090" stroke="#156CBE" stroke-width="2" stroke-linecap="round"/>
     <path d="M942 186H1064" stroke="#156CBE" stroke-width="2" stroke-linecap="round"/>
   </g>
 
-  <g opacity="0.38">
+  <g opacity="0.32">
     <rect x="108" y="232" width="148" height="92" rx="18" stroke="#0B7D74" stroke-width="2"/>
     <path d="M138 278H226" stroke="#0B7D74" stroke-width="2" stroke-linecap="round"/>
     <path d="M138 302H202" stroke="#0B7D74" stroke-width="2" stroke-linecap="round"/>
@@ -56,18 +56,19 @@
 
   <g filter="url(#shadow)">
     <rect x="272" y="104" width="736" height="412" rx="34" fill="url(#panel)"/>
-    <rect x="272" y="104" width="736" height="412" rx="34" stroke="#FFFFFF" stroke-opacity="0.8" stroke-width="2"/>
+    <rect x="272" y="104" width="736" height="412" rx="34" stroke="#FFFFFF" stroke-opacity="0.82" stroke-width="2"/>
   </g>
 
-  <rect x="330" y="164" width="126" height="40" rx="20" fill="#0B7D74"/>
-  <text x="393" y="189" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle">PROFILE</text>
+  <rect x="330" y="158" width="126" height="40" rx="20" fill="#0B7D74"/>
+  <text x="393" y="183" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle">PROFILE</text>
 
-  <text x="330" y="262" fill="#112641" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">
+  <text x="330" y="258" fill="#112641" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">
     Kristina Mateva
   </text>
-  <text x="330" y="332" fill="#36556E" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600">
-    <tspan x="330" dy="0">Building SwiftUI apps, AI knowledge systems, and</tspan>
-    <tspan x="330" dy="38">cloud security portfolio projects with clean architecture and thoughtful UX.</tspan>
+
+  <text x="330" y="324" fill="#3B5870" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600">
+    <tspan x="330" dy="0">Building SwiftUI apps, AI systems, and cloud security</tspan>
+    <tspan x="330" dy="36">projects with clean architecture and thoughtful UX.</tspan>
   </text>
 
   <g>
