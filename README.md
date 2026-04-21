@@ -17,8 +17,8 @@ My work aims to feel complete, readable, and demo-ready. I care about clean arch
 ## Focus Areas
 
 - AI applications with retrieval, grounding, document workflows, and clear demo stories
-- Cloud security portfolio work across Azure, Microsoft security, governance, and IaC
-- SwiftUI projects with secure data flows, strong structure, and testing in place
+- Cloud and identity security work across Azure, Microsoft security, Entra, governance, and IaC
+- SwiftUI projects with secure data flows, encryption-aware architecture, and testing in place
 - Frontend presentation that feels intentional instead of purely functional
 
 ## Featured Work
@@ -27,9 +27,10 @@ My work aims to feel complete, readable, and demo-ready. I care about clean arch
 | --- | --- |
 | [AI-102 Knowledge Assistant](https://github.com/QueenKM/ai102-knowledge-assistant) | A colorful portfolio app for document ingestion, grounded answers, local-first runtime, and Azure-ready AI architecture. |
 | [Microsoft Cloud Security Portfolio](https://github.com/QueenKM/microsoft-cloud-security-portfolio) | A structured body of work covering Azure security, governance, architecture, analytics, and infrastructure automation. |
+| [SOC Incident Triage Assistant](https://github.com/QueenKM/soc-incident-triage-assistant) | A security operations demo app that converts sample alerts into triage summaries, containment guidance, and exportable incident briefs. |
+| [Entra ID Tenant Hygiene Scanner](https://github.com/QueenKM/entra-id-tenant-hygiene-scanner) | A Microsoft identity security tool that scores tenant posture, flags risky gaps, and produces polished HTML-ready findings. |
+| [Secure Notes Apple](https://github.com/QueenKM/secure-notes-apple) | A SwiftUI and CryptoKit portfolio project for encrypted note storage, privacy-first app architecture, and Apple-platform product thinking. |
 | [CryptoPass for macOS](https://github.com/QueenKM/CryptoPass-MacOS) | A SwiftUI password manager with Core Data persistence, encryption-focused services, Firebase hooks, and test coverage. |
-| [CryptoPassApp](https://github.com/QueenKM/CryptoPassApp) | An Apple-platform password manager project centered on app structure, secure workflows, and portfolio-quality presentation. |
-| [Snake Game](https://github.com/QueenKM/snake-game) | A lightweight browser game that highlights clean JavaScript structure, responsive controls, and visual polish. |
 
 ## How I Like To Build
 
