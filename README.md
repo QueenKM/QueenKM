@@ -25,6 +25,7 @@ My work aims to feel complete, readable, and demo-ready. I care about clean arch
 
 | Project | What It Shows |
 | --- | --- |
+| [GreenPulse Smart City](https://github.com/QueenKM/greenpulse-smart-city) | A municipal decision-support prototype for Leuven with synthetic scenarios, documented KPIs, and a human decision log. |
 | [AI-102 Knowledge Assistant](https://github.com/QueenKM/ai102-knowledge-assistant) | A colorful portfolio app for document ingestion, grounded answers, local-first runtime, and Azure-ready AI architecture. |
 | [Microsoft Cloud Security Portfolio](https://github.com/QueenKM/microsoft-cloud-security-portfolio) | A structured body of work covering Azure security, governance, architecture, analytics, and infrastructure automation. |
 | [SOC Incident Triage Assistant](https://github.com/QueenKM/soc-incident-triage-assistant) | A security operations demo app that converts sample alerts into triage summaries, containment guidance, and exportable incident briefs. |
